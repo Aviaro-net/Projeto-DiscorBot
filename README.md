@@ -190,26 +190,6 @@ Desenvolvido com 💙 por [**MarcosMakosu**](https://github.com/MarcosMakosu) e 
 </div>
 
 ---
-
-### 💡 Dicas rápidas para o GitHub
-
-- **Topo do repo**: adicione um banner/imagem (`assets/banner.png`) e referencie com `![banner](assets/banner.png)`.
-- **Badges extras** úteis: `![Último commit](https://img.shields.io/github/last-commit/user/repo)`, `![Issues](https://img.shields.io/github/issues/user/repo)`, `![Stars](https://img.shields.io/github/stars/user/repo)`.
-- **Arquivos sugeridos** na raiz: `LICENSE`, `CONTRIBUTING.md`, `CHANGELOG.md`, `.gitignore` (Python), `pyproject.toml` ou `requirements.txt`.
-- **Estrutura sugerida**:
-  ```
-  wolframium/
-  ├── bot/
-  │   ├── cogs/         # comandos por módulo (fichas, dados, combate…)
-  │   ├── database/     # models + migrations SQLite
-  │   └── utils/
-  ├── assets/           # banner, ícones
-  ├── docs/
-  ├── tests/
-  └── README.md
-  ```
-
----
 ## 🏆 Contributors
 
 <div align="center"><a href="https://github.com/MarcosMakosu/Wolframium/graphs/contributors"> <img src="https://contrib.rocks/image?repo=MarcosMakosu/Wolframium" /> </a>
